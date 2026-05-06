@@ -1,0 +1,41 @@
+# OS / файловая система
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Временные файлы редакторов
+*~
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Логи
+*.log
+
+# Временные/служебные файлы Office
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Obsidian: локальные пользовательские артефакты
+.obsidian/cache/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/backlink.json
+
+# Данные плагинов (обычно локальное состояние)
+.obsidian/plugins/*/data.json
+
+# Локальная корзина Obsidian
+**/.trash/
+
+# *.png
+# *.jpg
+# *.jpeg
+# *.webp
+# *.gif
+# *.pdf
+# *.mp4
+# *.mov
