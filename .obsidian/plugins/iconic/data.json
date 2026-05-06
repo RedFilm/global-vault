@@ -1,0 +1,732 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": true,
+  "showAllFolderIcons": true,
+  "minimalFolderIcons": false,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": true,
+  "showMenuActions": true,
+  "showSuggestionIcons": true,
+  "showQuickSwitcherIcons": true,
+  "showMoveFileIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": true,
+    "rulePage": "folder"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "00 Dashboard": {
+      "icon": "lucide-home",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "01 Daily": {
+      "icon": "lucide-sun",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "02 Weekly": {
+      "icon": "lucide-stars",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "03 Monthly": {
+      "icon": "lucide-calendar-days",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "04 Quarterly": {
+      "icon": "lucide-moon-star",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "05 Yearly": {
+      "icon": "lucide-flower",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "06 Templates": {
+      "icon": "lucide-file-code-2",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Private vault": {
+      "icon": "lucide-folder",
+      "unsynced": [
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Private vault/.trash": {
+      "icon": "lucide-trash-2",
+      "unsynced": [
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Private vault/00 MOC": {
+      "icon": "lucide-compass",
+      "unsynced": [
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Private vault/01 Inbox": {
+      "icon": "lucide-inbox",
+      "unsynced": [
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Private vault/02 Projects": {
+      "icon": "lucide-feather",
+      "unsynced": [
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Private vault/02 Projects/01 Startup": {
+      "icon": "lucide-rocket",
+      "unsynced": [
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Private vault/02 Projects/01 Startup/Документация": {
+      "icon": "lucide-book-open",
+      "unsynced": [
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Private vault/03 Areas": {
+      "icon": "lucide-shield-check",
+      "unsynced": [
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Private vault/03 Areas/Health": {
+      "icon": "lucide-heart-pulse",
+      "unsynced": [
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Private vault/03 Areas/Health/Food": {
+      "icon": "lucide-utensils",
+      "unsynced": [
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Private vault/03 Areas/Health/Medicine": {
+      "icon": "lucide-pill",
+      "unsynced": [
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Private vault/03 Areas/Health/Medicine/Documents": {
+      "icon": "lucide-file-text",
+      "unsynced": [
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Private vault/03 Areas/Health/Medicine/Visits": {
+      "icon": "lucide-calendar-check",
+      "unsynced": [
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Private vault/03 Areas/Health/Workout": {
+      "icon": "lucide-dumbbell",
+      "unsynced": [
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Private vault/03 Areas/Planning": {
+      "icon": "lucide-map",
+      "unsynced": [
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Private vault/03 Areas/Work": {
+      "icon": "lucide-briefcase",
+      "unsynced": [
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Private vault/04 Knowledge": {
+      "icon": "lucide-brain",
+      "unsynced": [
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Private vault/05 Resources": {
+      "icon": "lucide-library",
+      "unsynced": [
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Private vault/05 Resources/Documents": {
+      "icon": "lucide-folder-open",
+      "unsynced": [
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Private vault/05 Resources/Telegram": {
+      "icon": "lucide-send",
+      "unsynced": [
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Private vault/05 Resources/Telegram/photos": {
+      "icon": "lucide-images",
+      "unsynced": [
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Private vault/06 Archive": {
+      "icon": "lucide-archive",
+      "unsynced": [
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Private vault/07 Templates": {
+      "icon": "lucide-files",
+      "unsynced": [
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden": {
+      "icon": "lucide-leaf",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/01 Daily": {
+      "icon": "lucide-sun",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/01 Daily/2026": {
+      "icon": "lucide-calendar",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/01 Daily/2026/05-май": {
+      "icon": "lucide-calendar-days",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/01 Daily/2026/06-июнь": {
+      "icon": "lucide-calendar-days",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/02 Weekly": {
+      "icon": "lucide-stars",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/02 Weekly/2026": {
+      "icon": "lucide-calendar-range",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/03 Monthly": {
+      "icon": "lucide-calendar-days",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/04 Quarterly": {
+      "icon": "lucide-moon-star",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/05 Yearly": {
+      "icon": "lucide-flower",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/06 Templates": {
+      "icon": "lucide-file-code-2",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/06 Templates/Components": {
+      "icon": "lucide-puzzle",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/06 Templates/Images": {
+      "icon": "lucide-image",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/06 Templates/Images/Daily Notes": {
+      "icon": "lucide-sun",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/06 Templates/Images/Monthly Notes": {
+      "icon": "lucide-calendar-days",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/06 Templates/Images/Quarterly Notes": {
+      "icon": "lucide-moon-star",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/06 Templates/Images/Weekly Notes": {
+      "icon": "lucide-stars",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/06 Templates/Images/Yearly Notes": {
+      "icon": "lucide-flower",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/06 Templates/Parents": {
+      "icon": "lucide-git-branch",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/06 Templates/Scripts": {
+      "icon": "lucide-code-2",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/06 Templates/Scripts/api": {
+      "icon": "lucide-plug",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/06 Templates/Scripts/operations": {
+      "icon": "lucide-wrench",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/06 Templates/Scripts/services": {
+      "icon": "lucide-server",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/06 Templates/Scripts/templater": {
+      "icon": "lucide-file-code-2",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/06 Templates/Scripts/templater/dataviewjs": {
+      "icon": "lucide-database",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/06 Templates/Scripts/templater/dataviewjs/monthly": {
+      "icon": "lucide-calendar-clock",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/06 Templates/Scripts/templater/dataviewjs/quarterly": {
+      "icon": "lucide-calendar-range",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/06 Templates/Scripts/templater/dataviewjs/weekly": {
+      "icon": "lucide-list-checks",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/06 Templates/Scripts/templater/dataviewjs/yearly": {
+      "icon": "lucide-calendar-check",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    },
+    "Time Garden/06 Templates/Scripts/utils": {
+      "icon": "lucide-wand-2",
+      "unsynced": [
+        "51487f92ee3c0ec4",
+        "bf6a0489a4cf6a0e",
+        "f7444aa04d6b1c04",
+        "04dc035d9468dec2",
+        "e2416492c4a4230f",
+        "ad0e91f922f54505",
+        "fc36afb400035e33",
+        "145d20372a951d2e",
+        "eaeb3bf56dc07cf6",
+        "e65bfc9dba6fb4fa"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}

@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Content",
+  "promptDelete": false,
+  "showInlineTitle": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "01 Inbox",
+  "showUnsupportedFiles": true
+}

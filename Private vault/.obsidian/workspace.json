@@ -1,0 +1,291 @@
+{
+  "main": {
+    "id": "5dacb771971a3996",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b0f5c56c745e403",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfd4367c5e9c90c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/02.06.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "02.06.2026"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df33de439d480704",
+    "type": "split",
+    "children": [
+      {
+        "id": "78d46b348156da2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2276de3cd1cd3b25",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
+          },
+          {
+            "id": "974b0e5b52883bc1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          },
+          {
+            "id": "b36602b55d58ae57",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "22ae4b0f00115c09",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 486.5
+  },
+  "right": {
+    "id": "0971c0d4b4c0d915",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdf4d8189dcfbdeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5451406c799f373b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "b721ed3e23dfc06b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "f35ea3494e05e47a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "8aa1f4d23a1cb795",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "e4b9edf4bf0b6fda",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily notes/ааааааааааа.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура ааааааааааа"
+            }
+          },
+          {
+            "id": "bc9f51004e00e888",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "ed64566d2a35be4a",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
+          },
+          {
+            "id": "2a1388c293c93a93",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 432.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false,
+      "notebook-navigator:Notebook Navigator": false
+    }
+  },
+  "active": "2276de3cd1cd3b25",
+  "lastOpenFiles": [
+    "Daily notes/02.06.2026.md",
+    "Daily notes/12.05.2026.md",
+    "Content/Мед. карта/~$.03.2026_Заключение нефролог.rtf.doc",
+    "Telegram/NET 10 в Ubuntu 26.04__Выш - 20260501115623615.md",
+    "Content/Мед. карта/~$ключение нефролог.rtf.doc",
+    "Telegram/Что_ ChatGPT может найти у вас - 20260503232207129.md",
+    "Telegram/ffff - 20260503232129002.md",
+    "Content/Telegram/photos/photo_1508914979_3 - 20260503232207125.jpg",
+    "Time Garden",
+    "Content/f8375b0f64db4dd56c6482c65cfcf4edd5d1c0e9.mp4",
+    "Daily notes/Без названия.base",
+    "Home.md",
+    "_Templates/Template - telegram note.md",
+    "Content/Telegram/photos/photo_1508914979_0 - 20260501115623607.jpg",
+    "Daily notes/17.05.2026.md",
+    "Daily notes/17.06.2026.md",
+    "_Templates/Template - daily note.md",
+    "Daily notes/01.05.2026.md",
+    "Daily notes/08.05.2026.md",
+    "Content/Не подтвержден 398653.crdownload",
+    "Идеи/Идеи проекты.md",
+    "_Templates/Шаблон — встреча.md",
+    "_Templates/Шаблон — проект.md",
+    "Content/Мед. карта/4.1.6 Протокол_уязвимостей_ОГСok.docx",
+    "Content/Мед. карта/20.03.2026_Заключение нефролог.rtf.doc",
+    "Content/Мед. карта/Новый документ в формате RTF.rtf.doc",
+    "Content/Мед. карта",
+    "Telegram/🤩 .NET 10 в Ubuntu 26.04__Выш - 20260501015103692.md",
+    "Daily notes/photo_1508914979_0 - 20260501015103688.jpg.md",
+    "Стартап/Документация/GTM-kit.md",
+    "Стартап/Документация/Критерии.md",
+    "Стартап/План/План интервью.md",
+    "Стартап/Документация/Техническая документация v1.md",
+    "Excalidraw/Drawing 2026-05-01 11.52.43.excalidraw.md",
+    "Inbox/00 Inbox.md",
+    "Kanban/Untitled Kanban.md",
+    "Telegram/photos/photo_1508914979_0 - 20260501114609033.jpg",
+    "Telegram/🤩 .NET 10 в Ubuntu 26.04__Выш - 20260501114609038.md",
+    "Telegram/photos/photo_1508914979_0 - 20260501114509485.jpg",
+    "Стартап/План/План выполнения пилота и шаблон отчета.md",
+    "Telegram/photos/photo_1508914979_0 - 20260501015103688.jpg",
+    "Telegram/photos/photo_1508914979_1 - 20260501011523164.jpg",
+    "Telegram/photos/photo_1508914979_1 - 20260501011354457.jpg",
+    "Telegram/photos/photo_1508914979_0 - 20260501005839871.jpg",
+    "Telegram/photos/photo_1508914979_1 - 20260501010017069.jpg",
+    "Telegram/photos/photo_1508914979_0 - 20260501005601497.jpg",
+    "Без названия.canvas",
+    "Без названия 1.canvas"
+  ]
+}
