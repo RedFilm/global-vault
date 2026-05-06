@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e3f017ee944b5dcd",
+        "id": "bc20d9cdc3d3075b",
         "type": "tabs",
         "children": [
           {
-            "id": "b0b5adef002d87da",
+            "id": "2954a37599f36d11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private vault/04 Knowledge/Программирование/C#/Полезности и рекомендации.md",
+                "file": "Private vault/04 Knowledge/Knowledge Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Полезности и рекомендации"
+              "title": "Knowledge Index"
             }
           }
         ]
@@ -230,34 +230,38 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "b0b5adef002d87da",
+  "active": "2954a37599f36d11",
   "lastOpenFiles": [
-    "Private vault/04 Knowledge/Программирование/C#/00 Содержание.md",
-    "Private vault/04 Knowledge/Программирование/C#/Функциональные возможности.md",
-    "Private vault/04 Knowledge/Программирование/C#/Обработка ошибок.md",
-    "Private vault/04 Knowledge/Программирование/C#/Что такое Null.md",
-    "Private vault/04 Knowledge/Программирование/C#/Основы платформы и языка.md",
-    "Private vault/04 Knowledge/Программирование/C#/Ссылочные и значимые типы. Стек и куча. Reference and value types (Ссылочные и значимые типы).md",
-    "Private vault/04 Knowledge/Программирование/C#/Область видимости. Контекст переменной.md",
-    "Private vault/04 Knowledge/Программирование/C#/Garbage Collector.md",
-    "Private vault/04 Knowledge/Программирование/C#/CLI.md",
+    "Private vault/01 Inbox/2026-05-05.md",
+    "Private vault/01 Inbox/Inbox Index.md",
+    "Private vault/01 Inbox/Конспект.md",
+    "Private vault/04 Knowledge/Программирование/CSharp/00 Содержание.md",
+    "Private vault/04 Knowledge/Программирование/CSharp/NET интерфейсы и контракты.md",
+    "Private vault/04 Knowledge/Программирование/CSharp/IQueryable.md",
+    "Private vault/04 Knowledge/Программирование/CSharp/IEnumerable, IEnumerator.md",
+    "Private vault/04 Knowledge/Программирование/CSharp/IComparable, IComparer.md",
+    "Private vault/04 Knowledge/Программирование/CSharp/IDisposable.md",
+    "Private vault/04 Knowledge/Программирование/CSharp/ICloneable.md",
+    "Private vault/04 Knowledge/Программирование/CSharp/INotifyPropertyChanged.md",
+    "Private vault/04 Knowledge/Программирование/CSharp/IDbConnection, IDbCommand, IDbDataAdapter.md",
+    "Private vault/04 Knowledge/Программирование/CSharp/ISerializable.md",
+    "Private vault/04 Knowledge/Программирование/CSharp/IAsyncResult.md",
+    "Private vault/04 Knowledge/Программирование/CSharp/Основы платформы и языка.md",
+    "Private vault/04 Knowledge/Программирование/CSharp/Арифметическое переполнение. Checked Unchecked CSharp.md",
+    "Private vault/04 Knowledge/Программирование/CSharp/Преобразование и приведение типов в CSharp.md",
     "Private vault/04 Knowledge/Программирование/00 - Программирование.md",
-    "Private vault/02 Projects/Projects Index.md",
-    "Private vault/04 Knowledge/Программирование/C#/Полезности и рекомендации.md",
-    "Private vault/04 Knowledge/Программирование/C#/IComparable, IComparer.md",
-    "Private vault/04 Knowledge/Программирование/C#/CQRS.md",
-    "Private vault/04 Knowledge/Программирование/C#/Паттерн посредник (Mediator).md",
-    "Private vault/04 Knowledge/Программирование/C#/Рекомендации.md",
-    "Private vault/04 Knowledge/Программирование/C#/CRUD.md",
     "Private vault/04 Knowledge/Knowledge Index.md",
-    "Private vault/00 MOC/Home.md",
-    "Private vault/02 Projects/01 Startup/Навигация.md",
-    "Private vault/01 Inbox/Идеи проекты.md",
-    "Private vault/05 Resources/Telegram/2026-05-01 — .NET 10 в Ubuntu 26.04.md",
-    "Private vault/05 Resources/Telegram/photos/NET 10 в Ubuntu 26.04__Выш - 20260501115623615.md",
-    "Private vault/04 Knowledge/Программирование/C#/Try…catch.md",
-    "Private vault/04 Knowledge/Программирование/C#/Свойства get и set. Ключевое слово value. Автоматические свойства.md",
-    "Private vault/04 Knowledge/Программирование/C#/Enum CSharp. Что это и для чего нужно.md",
+    "Private vault/04 Knowledge/Программирование/C#/00 Содержание.md",
+    "Private vault/04 Knowledge/Программирование/C#",
+    "Private vault/04 Knowledge/Программирование/CSharp/Что такое Nullable Null-совместимые значимые типы.md",
+    "Private vault/04 Knowledge/Программирование/CSharp/Что такое Null.md",
+    "Private vault/04 Knowledge/Программирование/CSharp/Функциональные возможности.md",
+    "Private vault/04 Knowledge/Программирование/CSharp/Ссылочные и значимые типы. Стек и куча. Reference and value types (Ссылочные и значимые типы).md",
+    "Private vault/04 Knowledge/Программирование/CSharp/Свойства get и set. Ключевое слово value. Автоматические свойства.md",
+    "Private vault/04 Knowledge/Программирование/CSharp/Рекомендации.md",
+    "Private vault/04 Knowledge/Программирование/CSharp",
+    "Private vault/04 Knowledge/Программирование/Без названия",
+    "Программирование",
     "07 Notes/Images",
     "07 Notes",
     "Private vault/04 Knowledge/Documents/a1cd7bb585bf2ae3c05cc92e6c6fa05c_MD5.png",
@@ -273,10 +277,6 @@
     "Private vault/04 Knowledge/Documents",
     "Private vault/04 Knowledge/Программирование/C#/Темы конспекта",
     "Программирование/C#",
-    "Программирование",
-    "Private vault/04 Knowledge/Программирование/C#",
-    "Private vault/04 Knowledge/Программирование",
-    "Private vault/03 Areas/Health/Medicine/Documents/~$.03.2026_Заключение нефролог.rtf.doc",
-    "Time Garden/01 Daily/2026/04-апрель"
+    "Private vault/04 Knowledge/Программирование"
   ]
 }
