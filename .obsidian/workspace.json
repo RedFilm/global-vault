@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ddb7f606e9efc03b",
+        "id": "e3f017ee944b5dcd",
         "type": "tabs",
         "children": [
           {
-            "id": "e8889470e732897b",
+            "id": "b0b5adef002d87da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Time Garden/01 Daily/2026/05-май/07-05-2026-четверг.md",
+                "file": "Private vault/04 Knowledge/Программирование/C#/Полезности и рекомендации.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07-05-2026-четверг"
+              "title": "Полезности и рекомендации"
             }
           }
         ]
@@ -62,7 +62,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -226,56 +226,57 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "feaf2d0abc66b502",
+  "active": "b0b5adef002d87da",
   "lastOpenFiles": [
+    "Private vault/04 Knowledge/Программирование/C#/00 Содержание.md",
+    "Private vault/04 Knowledge/Программирование/C#/Функциональные возможности.md",
+    "Private vault/04 Knowledge/Программирование/C#/Обработка ошибок.md",
+    "Private vault/04 Knowledge/Программирование/C#/Что такое Null.md",
+    "Private vault/04 Knowledge/Программирование/C#/Основы платформы и языка.md",
+    "Private vault/04 Knowledge/Программирование/C#/Ссылочные и значимые типы. Стек и куча. Reference and value types (Ссылочные и значимые типы).md",
+    "Private vault/04 Knowledge/Программирование/C#/Область видимости. Контекст переменной.md",
+    "Private vault/04 Knowledge/Программирование/C#/Garbage Collector.md",
+    "Private vault/04 Knowledge/Программирование/C#/CLI.md",
+    "Private vault/04 Knowledge/Программирование/00 - Программирование.md",
+    "Private vault/02 Projects/Projects Index.md",
+    "Private vault/04 Knowledge/Программирование/C#/Полезности и рекомендации.md",
+    "Private vault/04 Knowledge/Программирование/C#/IComparable, IComparer.md",
+    "Private vault/04 Knowledge/Программирование/C#/CQRS.md",
+    "Private vault/04 Knowledge/Программирование/C#/Паттерн посредник (Mediator).md",
+    "Private vault/04 Knowledge/Программирование/C#/Рекомендации.md",
+    "Private vault/04 Knowledge/Программирование/C#/CRUD.md",
+    "Private vault/04 Knowledge/Knowledge Index.md",
+    "Private vault/00 MOC/Home.md",
+    "Private vault/02 Projects/01 Startup/Навигация.md",
+    "Private vault/01 Inbox/Идеи проекты.md",
+    "Private vault/05 Resources/Telegram/2026-05-01 — .NET 10 в Ubuntu 26.04.md",
+    "Private vault/05 Resources/Telegram/photos/NET 10 в Ubuntu 26.04__Выш - 20260501115623615.md",
+    "Private vault/04 Knowledge/Программирование/C#/Try…catch.md",
+    "Private vault/04 Knowledge/Программирование/C#/Свойства get и set. Ключевое слово value. Автоматические свойства.md",
+    "Private vault/04 Knowledge/Программирование/C#/Enum CSharp. Что это и для чего нужно.md",
+    "07 Notes/Images",
+    "07 Notes",
+    "Private vault/04 Knowledge/Documents/a1cd7bb585bf2ae3c05cc92e6c6fa05c_MD5.png",
+    "Private vault/04 Knowledge/Documents/f36ffe8d7bc4a3cb2c60b513af437f58_MD5.png",
+    "Private vault/04 Knowledge/Documents/734e98e84ae622c9b2c369e1e56340a1_MD5.png",
+    "Private vault/04 Knowledge/Documents/1166fa509688f51f2d069a0630540776_MD5.png",
+    "Private vault/04 Knowledge/Documents/e0771c3685b945552db8e30f219b3256_MD5.png",
+    "Private vault/04 Knowledge/Documents/d9330df296241173da5a5be65072f9c6_MD5.png",
+    "Private vault/04 Knowledge/Documents/5590eef1933d9975376b7dfeca0d2bff_MD5.png",
+    "Private vault/04 Knowledge/Documents/79b68f11c14fff7e2b9169f68db7b099_MD5.png",
+    "Private vault/04 Knowledge/Documents/5b4a5fc15f1e30ec45b6baeffc572ea6_MD5.png",
+    "Private vault/04 Knowledge/Documents/74d66b9cfda837b0257a3235b6ac0070_MD5.png",
+    "Private vault/04 Knowledge/Documents",
+    "Private vault/04 Knowledge/Программирование/C#/Темы конспекта",
+    "Программирование/C#",
+    "Программирование",
     "Private vault/04 Knowledge/Программирование/C#",
     "Private vault/04 Knowledge/Программирование",
-    "Private vault/01 Inbox/Inbox Index.md",
-    "Time Garden/01 Daily/2026/05-май/07-05-2026-четверг.md",
-    "Private vault/02 Projects/Projects Index.md",
-    "Private vault/03 Areas/Areas Index.md",
-    "Private vault/00 MOC/Home.md",
-    "Private vault/06 Archive/Archive Index.md",
-    "Private vault/05 Resources/Resources Index.md",
-    "Private vault/04 Knowledge/Knowledge Index.md",
-    "Private vault/03 Areas/Health/Workout/План тренировки.md",
-    "Private vault/03 Areas/Health/Medicine/Visits/20.03.2026.md",
-    "Private vault/03 Areas/Health/Food/План питания.md",
-    "Private vault/00 MOC/Правила обработки заметок.md",
-    "Private vault/02 Projects/01 Startup/Навигация.md",
-    "Time Garden/01 Daily/2026/05-май/17-05-2026-воскресенье.md",
-    "Time Garden/02 Weekly/2026/2026-W18.md",
-    "Time Garden/01 Daily/2026/05-май/06-05-2026-среда.md",
-    "Time Garden/01 Daily/2026/05-май/12-05-2026-вторник.md",
     "Private vault/03 Areas/Health/Medicine/Documents/~$.03.2026_Заключение нефролог.rtf.doc",
-    "Time Garden/01 Daily/2026/05-май/08-05-2026-пятница.md",
-    "Time Garden/01 Daily/2026/05-май/09-05-2026-суббота.md",
-    "Time Garden/06 Templates/Components/Startup Daily On Launch.md",
-    "Private vault/Home.md",
-    "Private vault/00 Home/Операционный ритм.md",
-    "Time Garden/01 Daily/2026/04-апрель/17-04-2026-пятница.md",
-    "Time Garden/01 Daily/2026/04-апрель",
-    "Time Garden/06 Templates/Components/Yearly AI Review.md",
-    "Time Garden/06 Templates/Components/Weekly Banner Config.md",
-    "Private vault/07 Templates",
-    "Private vault/06 Archive",
-    "Private vault/05 Resources/Telegram/photos",
-    "Private vault/05 Resources/Telegram",
-    "Private vault/05 Resources/Documents",
-    "Private vault/05 Resources",
-    "Private vault/04 Knowledge",
-    "Private vault/10 Content/Telegram/photos/photo_1508914979_0 - 20260501115623607.jpg",
-    "Private vault/Content/Telegram/photos/photo_1508914979_0 - 20260501115623607.jpg",
-    "06 Templates/Images/QAIdeaBanner.gif",
-    "06 Templates/Images/DashboardBanner.gif",
-    "My Path/06 Templates/Images/Secret.gif",
-    "My Path/06 Templates/Images/Chart example.png",
-    "My Path/06 Templates/Images/Banner directory.png",
-    "My Path/06 Templates/Images/Deleting a note in the calendar.png",
-    "My Path/06 Templates/Images/Reading view icon.png",
-    "My Path/07 Notes/Images/Pasted image 20251020164817.png"
+    "Time Garden/01 Daily/2026/04-апрель"
   ]
 }
